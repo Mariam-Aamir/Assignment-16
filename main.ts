@@ -1,4 +1,4 @@
-//    Assignmeny 16
+//    Assignment 16
 
 // add more guest for dinner in guestlist
 
